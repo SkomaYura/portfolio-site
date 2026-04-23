@@ -9,7 +9,7 @@
 - [x] Урок 6: Відкат змін — restore / checkout / reset
 
 ## Гілки і merge
-- [ ] Урок 7: Перша гілка feature/dark-mode
+- [x] Урок 7: Перша гілка feature/dark-mode
 - [ ] Урок 8: Merge гілки в main, видалення гілки
 - [ ] Урок 9: Конфлікт merge — створюємо і розв'язуємо
 
