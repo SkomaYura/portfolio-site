@@ -27,3 +27,6 @@ portfolio-site/
 ## Status
 
 🚧 In progress — part of my DevOps learning path.
+
+## Contributors
+- Yurii Skomarovskyi
